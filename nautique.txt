@@ -1,7 +1,10 @@
+
 air nautique 210
 air nautique 230 
+air nautique 210 the smallest boat 
+air nautique 230 - okay 
 G21
-G23
+G23: the largest boat
  nice list
 
 Some more changes to the list, just because
